@@ -1,4 +1,4 @@
-# Webview
+# Android Webview
 Android Studio Webview project shows how website pages and web apps/api can be loaded within an android app with the help of an element called
 webview.
 
